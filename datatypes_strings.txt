@@ -1,0 +1,31 @@
+# print('hello python')
+# print("hello python")
+# print('''hello python''')
+# print("""hello python""")
+                                                    
+# print(type('hello world'))
+# print(type("hello world"))
+# print(type('''hello world'''))
+# print(type("""hello world"""))
+
+# print(6+7.8)
+# print(type(7+2))
+# print(type(3.4+5.6))
+# print(type('hello'+4.6))
+# print(type('hello '*5))
+
+# print(1,2,3,4,5)
+# print(1,2,3,4,5,sep='')
+# print(1,2,3,4,5,sep=' ')
+# print(1,2,3,4,5,sep='   ')
+# print(1,2,3,4,5,sep='_')
+
+# print('hello'+'world')
+# print('hello '+'world')
+# print('hello   '+'world')
+# print('hello','world')
+
+# print('hello'+''+'world')
+# print('hello'+' '+'world')
+# print('hello'+'  '+'world')
+# print('hello'+'-'+'world')
