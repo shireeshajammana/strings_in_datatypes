@@ -1,2 +1,2 @@
-# strings_in_datatypes
+# strings
 strings_in_python
